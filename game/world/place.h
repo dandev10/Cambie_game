@@ -5,13 +5,10 @@
 #include <unistd.h>
 
 struct place {
-    char name[20];
-    char description[100];
-
-    struct place *land;
-    struct place *city[10];
     
+    int cordsN;
+    int cordsW;
 };
-// Land kingdom
-struct place landkingdom, greatcity;
-void landkingdomf();
+struct place locate;
+
+void cords();

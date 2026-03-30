@@ -11,6 +11,10 @@ struct player
     char choose[20];
     char playersname[50];
     int hearts;
+    int xp;
+
+    int moveN;
+    int MoveW;
 };
 
 struct player demoplayer;

@@ -10,5 +10,6 @@ commands in game(not direct):
 4. /stats   -   gives the player stats
 
 commands in game(direct):
-1. attack   -   attacks
+1. place   -   tells you what cordinates you are on
+
 
