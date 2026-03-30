@@ -9,13 +9,15 @@ you can use git or whatever you pefer.
 
 2. 
 find the folder in terminal. 
-Use cd and find where the folder lies. 
+Use cd and find where the folder lies.  
+
 3. 
 
 Then write ``` make ```to run.  
 the makefile that i wrote uses gcc compiler(on mac).  
 change the makefile to so that the compiler and OS. 
 will run the game.  
+
 4. 
 write start in menu and enjoy!!!
 if you dont know commands or what to do
