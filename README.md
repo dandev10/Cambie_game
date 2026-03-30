@@ -9,7 +9,7 @@ you can use git or whatever you pefer.
 
 2. 
 find the folder in terminal. 
-Use cd and find where the folder lies.  
+keep doing until you find cambie_game folder.  
 
 3. 
 
