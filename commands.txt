@@ -1,0 +1,14 @@
+commands in menu:
+1. start    -   starts the main game
+2. quit     -   quits the game
+3. info     -   gives the information of the game
+
+commands in game(not direct):
+1. /quit    -   quits the whole game
+2. /main    -   goes to the main menu
+3. /help    -   gives you list of commands
+4. /stats   -   gives the player stats
+
+commands in game(direct):
+1. attack   -   attacks
+

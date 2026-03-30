@@ -10,3 +10,4 @@ struct player
     char playersname[50];
     int hearts;
 };
+
